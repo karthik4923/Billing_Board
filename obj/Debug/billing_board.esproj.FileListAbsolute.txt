@@ -1,0 +1,2 @@
+C:\Users\Karthik\source\repos\Billing_Board\obj\Debug\billing_board.esproj.CoreCompileInputs.cache
+D:\source\repos\Billing_Board\obj\Debug\billing_board.esproj.CoreCompileInputs.cache
