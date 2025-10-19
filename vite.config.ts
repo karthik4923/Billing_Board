@@ -1,10 +1,8 @@
-import { defineConfig } from 'vite';
-import plugin from '@vitejs/plugin-vue';
+import { defineConfig } from 'vite'
+import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    plugins: [plugin()],
-    server: {
-        port: 64572,
-    }
+  plugins: [vue()],
+  base: '/Billing_Board/', // 👈 must match your GitHub repo name
 })
