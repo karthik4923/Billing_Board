@@ -1,41 +1,5 @@
-# Node / Vue / Vite
 node_modules/
 dist/
 .env
-.env.*
-*.local
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Editor files
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-
-# Build cache
-.cache/
-vite-cache/
-coverage/
-
-# TypeScript build output
-*.tsbuildinfo
-
-# OS files
-*.swp
-*.swo
-
-# .NET / C# build folders
-bin/
 obj/
 Debug/
-Release/
-*.user
-*.rsuser
-*.suo
-*.userosscache
-*.sln.docstates
